@@ -1,0 +1,14 @@
+C:\temp\ProjetosCSharpUdemy\Aula41Triangulo\Aula41Triangulo\bin\Debug\net8.0\Aula41Triangulo.exe
+C:\temp\ProjetosCSharpUdemy\Aula41Triangulo\Aula41Triangulo\bin\Debug\net8.0\Aula41Triangulo.deps.json
+C:\temp\ProjetosCSharpUdemy\Aula41Triangulo\Aula41Triangulo\bin\Debug\net8.0\Aula41Triangulo.runtimeconfig.json
+C:\temp\ProjetosCSharpUdemy\Aula41Triangulo\Aula41Triangulo\bin\Debug\net8.0\Aula41Triangulo.dll
+C:\temp\ProjetosCSharpUdemy\Aula41Triangulo\Aula41Triangulo\bin\Debug\net8.0\Aula41Triangulo.pdb
+C:\temp\ProjetosCSharpUdemy\Aula41Triangulo\Aula41Triangulo\obj\Debug\net8.0\Aula41Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosCSharpUdemy\Aula41Triangulo\Aula41Triangulo\obj\Debug\net8.0\Aula41Triangulo.AssemblyInfoInputs.cache
+C:\temp\ProjetosCSharpUdemy\Aula41Triangulo\Aula41Triangulo\obj\Debug\net8.0\Aula41Triangulo.AssemblyInfo.cs
+C:\temp\ProjetosCSharpUdemy\Aula41Triangulo\Aula41Triangulo\obj\Debug\net8.0\Aula41Triangulo.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosCSharpUdemy\Aula41Triangulo\Aula41Triangulo\obj\Debug\net8.0\Aula41Triangulo.dll
+C:\temp\ProjetosCSharpUdemy\Aula41Triangulo\Aula41Triangulo\obj\Debug\net8.0\refint\Aula41Triangulo.dll
+C:\temp\ProjetosCSharpUdemy\Aula41Triangulo\Aula41Triangulo\obj\Debug\net8.0\Aula41Triangulo.pdb
+C:\temp\ProjetosCSharpUdemy\Aula41Triangulo\Aula41Triangulo\obj\Debug\net8.0\Aula41Triangulo.genruntimeconfig.cache
+C:\temp\ProjetosCSharpUdemy\Aula41Triangulo\Aula41Triangulo\obj\Debug\net8.0\ref\Aula41Triangulo.dll

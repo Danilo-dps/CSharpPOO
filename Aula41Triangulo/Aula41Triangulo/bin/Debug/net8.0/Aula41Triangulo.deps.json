@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aula41Triangulo/1.0.0": {
+        "runtime": {
+          "Aula41Triangulo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula41Triangulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
